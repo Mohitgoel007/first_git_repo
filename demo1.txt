@@ -4,4 +4,5 @@ ls
 
 pwd
 cd Downloads\
-exit
+exi
+kmfcok'idwjmfoedw'ijkt
