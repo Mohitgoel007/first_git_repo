@@ -5,4 +5,4 @@ ls
 pwd
 cd Downloads\
 exi
-kmfcok'idwjmfoedw'ijkt
+
