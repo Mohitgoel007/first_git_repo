@@ -1,4 +1,7 @@
 #!/bin/bash
  
 ls
+
 pwd
+cd Downloads\
+
